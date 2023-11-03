@@ -19,8 +19,10 @@ pip install -r requirements.txt
 
 ## Run test
 ```bash
-cd assignment
+cd placementsio
 pytest tests/test_google_mail.py
+or
+python -m pytest
 ```
 
 - This test will verify following:
