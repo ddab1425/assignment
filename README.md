@@ -31,11 +31,12 @@ python -m pytest
 2. Verify the mail having specific label
 ```
 
-- A screenshot will be generated after execution.
-![image](https://github.com/ddab1425/assignment/assets/6958775/4b51128c-93af-416c-aa17-ac62dfafd11a)
+- A screenshot will be generated after execution; the subject and body of the mail, the star status and labels would be displayed on it.
+![image](https://github.com/ddab1425/placementsio/assets/6958775/0f9ddb5a-837b-4abf-b65b-97dc93ba4f0e)
 
 ## Demo
-https://github.com/ddab1425/assignment/assets/6958775/72b5fcf5-962a-4f1d-a4ee-87545740fc25
+https://github.com/ddab1425/placementsio/assets/6958775/a3d0ddec-4a82-4ea5-b964-e39778ad285f
+
 
 ## My testing environment
 ```JSON
